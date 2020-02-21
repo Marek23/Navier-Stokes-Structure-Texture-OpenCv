@@ -1,0 +1,7 @@
+https://www.python.org/downloads/windows/
+Download Windows x86-64 executable installer
+
+potem modify -> i zaznaczyć add to variable path
+
+pip install numpy
+pip install opencv-python
